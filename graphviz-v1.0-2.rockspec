@@ -1,8 +1,16 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "graphviz"
 version = "v1.0-2"
+-- LuaDist source
 source = {
-	url = "git://github.com/nymphium/lua-graphviz"
+  tag = "v1.0-2",
+  url = "git://github.com/LuaDist-testing/graphviz.git"
 }
+-- Original source
+-- source = {
+-- 	url = "git://github.com/nymphium/lua-graphviz"
+-- }
 description = {
 	homepage = "http://github.com/nymphium/lua-graphviz",
 	license = "MIT"
